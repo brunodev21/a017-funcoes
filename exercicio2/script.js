@@ -26,8 +26,10 @@ numPar(8)
 
 // Letra "D"
 
-function string(palavra){
+function string(palavra) {
     console.log(`A quantidade de letras dessa palavra são: ${palavra.length}`)
     console.log(`${palavra.toUpperCase()}`)
 }
 string("Vampiro")
+
+
